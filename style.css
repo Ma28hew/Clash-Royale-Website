@@ -1,0 +1,50 @@
+html {
+    background: url("Images/ClashBackground.webp") center no-repeat fixed;
+    background-size: cover;
+}
+
+body {
+    background: rgba(255, 255, 255, 0.5);
+    width: 500px;
+    padding: 50px 100px;
+    margin: 25px auto;
+    border-radius: 25px;
+    font-family: youBlockHead;
+    text-align: center
+}
+
+h1 {
+    font-size: 30px;
+}
+
+#RoyalRecruitsCard {
+    width: 105px;
+}
+
+#RoyalHogsCard {
+    width: 100px;
+}
+
+#ZappiesCard {
+    width: 105px;
+}
+
+#FireballCard {
+    width: 105px;
+}
+
+#IceSpiritCard {
+    width: 105px;
+}
+
+#GoblinCageCard {
+    width: 100px;
+}
+
+#FlyingMachineCard {
+    width: 100px;
+}
+
+#BarbarianBarrelCard {
+    width: 100px;
+}
