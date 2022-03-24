@@ -49,4 +49,46 @@ h1 {
     width: 100px;
 }
 
-#Blue-Text {}
+div {
+    word-spacing: 10px;
+}
+
+#ZappiesGettingFireballed {
+    border-radius: 25px;
+    width: 250px;
+    height: 263px;
+}
+
+#FireBallCard2 {
+    width: 80px;
+}
+
+#LightningCard {
+    width: 80px;
+}
+
+#RocketCard {
+    width: 80px;
+}
+
+#PoisonCard {
+    width: 75.6px;
+}
+
+#SplitLanePush {
+    border-radius: 25px;
+    width: 250px;
+    height: 263px;
+}
+
+#RoyalRecruitsCard2 {
+    width: 80px;
+}
+
+#RoyalHogsCard2 {
+    width: 76px;
+}
+
+#ZappiesCard2 {
+    width: 80px;
+}
