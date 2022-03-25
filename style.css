@@ -5,6 +5,26 @@ html {
 
 body {
     background: rgba(255, 255, 255, 0.5);
+    width: 900px;
+    padding: 50px 100px;
+    margin: 25px auto;
+    border-radius: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center
+}
+
+#body2 {
+    background: rgba(255, 255, 255, 0.5);
+    width: 500px;
+    padding: 50px 100px;
+    margin: 25px auto;
+    border-radius: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center
+}
+
+#body3 {
+    background: rgba(255, 255, 255, 0.5);
     width: 500px;
     padding: 50px 100px;
     margin: 25px auto;
@@ -18,35 +38,35 @@ h1 {
 }
 
 #RoyalRecruitsCard {
-    width: 105px;
+    width: 205px;
 }
 
 #RoyalHogsCard {
-    width: 100px;
+    width: 200px;
 }
 
 #ZappiesCard {
-    width: 105px;
+    width: 211px;
 }
 
 #FireballCard {
-    width: 105px;
+    width: 207px;
 }
 
 #IceSpiritCard {
-    width: 105px;
+    width: 204.1238969px;
 }
 
 #GoblinCageCard {
-    width: 100px;
+    width: 200px;
 }
 
 #FlyingMachineCard {
-    width: 100px;
+    width: 200px;
 }
 
 #BarbarianBarrelCard {
-    width: 100px;
+    width: 200px;
 }
 
 div {
